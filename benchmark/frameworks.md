@@ -1,6 +1,7 @@
 ---
 title: Deep Learning Frameworks
 layout: home
+parent: Benchmark
 ---
 
 # Deep Learning Frameworks

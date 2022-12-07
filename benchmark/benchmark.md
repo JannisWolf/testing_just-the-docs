@@ -1,4 +1,5 @@
 ---
-title: Hello World
+title: Benchmark Design
 layout: home
+parent: Benchmark
 ---
