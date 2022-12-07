@@ -1,6 +1,7 @@
 ---
 title: Models
 layout: home
+has_children: true
 ---
 
 # Models for Benchmarking
