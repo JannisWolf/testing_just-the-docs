@@ -1,10 +1,10 @@
 title: OBPMark-ML
 description: Description test
 theme: just-the-docs
+color_scheme: dark
+
 
 url: https://janniswolf.github.io/testestest
 
 aux_links:
   Template Repository: https://github.com/JannisWolf/testing_just-the-docs
-
-color_scheme: dark
